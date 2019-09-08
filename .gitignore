@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# pipenv is a developer's private toolbox
+Pipfile
+Pipfile.lock
