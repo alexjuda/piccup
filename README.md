@@ -1,5 +1,8 @@
 # piccup
 
+![PyPI](https://img.shields.io/pypi/v/piccup?style=flat)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/piccup?style=flat)
+
 **[EXPERIMENTAL]**
 
 Render HTML from Python using plain data structures, inspired by Clojure's Hiccup.
