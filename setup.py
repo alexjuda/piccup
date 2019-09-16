@@ -6,7 +6,7 @@ with open('README.md') as f:
 
 
 setuptools.setup(name='piccup',
-                 version='0.1',
+                 version='0.1.1',
                  author='Alexander Juda',
                  description="Render HTML from Python using plain data structures, inspired by Clojure's Hiccup",
                  long_description=long_desc,
