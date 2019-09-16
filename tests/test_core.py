@@ -1,4 +1,4 @@
-import piccup as p
+import piccup.core as p
 
 
 class TestHTML:
